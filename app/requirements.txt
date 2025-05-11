@@ -1,0 +1,10 @@
+flask
+joblib
+scikit-learn
+xgboost
+pandas
+matplotlib
+imblearn
+numpy
+seaborn
+prometheus-flask-exporter
